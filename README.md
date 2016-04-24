@@ -18,7 +18,7 @@ Also make sure to restyle the Blog in responsive format!
 Bonus:
 Add different media queries for a 1000px breakpoint and a 480px breakpoint
 
-need a <form>
+need a < form >
 need to add items using JS [append()]
 click() handler for buttons
 submit() and/or button
